@@ -1,0 +1,7 @@
+C:\Users\WeCanCodeIT\source\repos\RiverChecker\RiverChecker\bin\Debug\RiverChecker.exe.config
+C:\Users\WeCanCodeIT\source\repos\RiverChecker\RiverChecker\bin\Debug\RiverChecker.exe
+C:\Users\WeCanCodeIT\source\repos\RiverChecker\RiverChecker\bin\Debug\RiverChecker.pdb
+C:\Users\WeCanCodeIT\source\repos\RiverChecker\RiverChecker\obj\Debug\RiverChecker.csprojAssemblyReference.cache
+C:\Users\WeCanCodeIT\source\repos\RiverChecker\RiverChecker\obj\Debug\RiverChecker.csproj.CoreCompileInputs.cache
+C:\Users\WeCanCodeIT\source\repos\RiverChecker\RiverChecker\obj\Debug\RiverChecker.exe
+C:\Users\WeCanCodeIT\source\repos\RiverChecker\RiverChecker\obj\Debug\RiverChecker.pdb
