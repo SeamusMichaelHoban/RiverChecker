@@ -10,15 +10,17 @@ namespace RiverChecker
     {
         static void Main(string[] args)
         {
-            River ohio = new River();
-
-            ohio.Name = "Ohio River";
-            ohio.CheckStatus();//Set initial levels
-            ohio.changeDepth();
-            ohio.changePollutionLevel();
+            River ohio = new River("Ohio River");
 
             ohio.menu();
+            Console.WriteLine("One week goes by.....");
+            Console.WriteLine("New levels.....");
+            ohio.CheckStatus();
+            ohio.menu();
 
+            ohio.changeDepth();
+            ohio.changePollutionLevel();
+            ohio.menu();
         }
     }
 }

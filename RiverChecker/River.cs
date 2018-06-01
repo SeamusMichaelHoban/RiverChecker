@@ -37,13 +37,23 @@ namespace RiverChecker
         {
 
         }
+        public River(string name)
+        {
+            Name = name;
+            Console.WriteLine("Name: {0} ", Name);
+            Console.WriteLine("What is the current depth of the river?");
+            Depth = int.Parse(Console.ReadLine());
+            Console.WriteLine("What is the current pollution level of the river? (1-10)");
+            PollutionLevel = int.Parse(Console.ReadLine());
+            testLevels();
+        } 
+
         public River(int depth, int pollutionLevel, string name)
         {
 
             Depth = depth;
             PollutionLevel = pollutionLevel;
             Name = name;
-
         }
         //Write methods
         public void CheckStatus()
