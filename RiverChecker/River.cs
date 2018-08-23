@@ -35,7 +35,7 @@ namespace RiverChecker
         //Create constructors
         public River()
         {
-
+            //Default Costructor
         }
         public River(string name)
         {
